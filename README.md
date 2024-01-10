@@ -10,4 +10,7 @@ Deleting the data as user want
 These are the main aim of CRUD Api in this process.
 
 
-CRUD API 
+CRUDapi is another intermediate type APi.
+This api is created using spring boot and PostgreSQL as database.
+Connecting to database...
+
