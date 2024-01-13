@@ -1,3 +1,9 @@
+Various Types of CRUD API are coded in this repo:
+AIM:  To increase sec patches
+      To increase the knowldege the working of database
+      To get familiar with api work.
+      To learn... .
+
 CRUD Type 1 is a basic Api.
 Using spring boot and MySQL as database simple Api is generated.
 Working on packages, implementing of classes in various packages is excersized here.
